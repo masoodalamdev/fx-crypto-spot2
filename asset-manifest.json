@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fx-crypto-spot2/static/css/main.3bcc5693.css",
+    "main.js": "/fx-crypto-spot2/static/js/main.cb81f75e.js",
+    "index.html": "/fx-crypto-spot2/index.html",
+    "main.3bcc5693.css.map": "/fx-crypto-spot2/static/css/main.3bcc5693.css.map",
+    "main.cb81f75e.js.map": "/fx-crypto-spot2/static/js/main.cb81f75e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bcc5693.css",
+    "static/js/main.cb81f75e.js"
+  ]
+}
